@@ -1,10 +1,11 @@
-## Hi, I’m Armfath
+## Hi, I’m Armand
 
 Full-stack developer focused on building clean, reliable products.
 
-- Frontend: TypeScript · React · Next.js · Tailwind CSS
+- Frontend: TypeScript · React · Next.js · Tailwind CSS · Shadcn UI
 - Backend: Python · FastAPI
-- AI: CrewAI · LLM Agents
+- AI: CrewAI · LangGraph · LLM Agents
 
 Upwork: [Top Rated](https://www.upwork.com/freelancers/~013d5163c5ade668ba?mp_source=share)  
-Contact: info.armanagonou@gmail.com · http://armand-anagonou.me
+Contact: info.armanagonou@gmail.com
+Portfolio: http://armand-anagonou.me
