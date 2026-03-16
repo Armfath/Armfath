@@ -8,4 +8,4 @@ Full-stack developer focused on building clean, reliable products.
 
 Upwork: [Top Rated](https://www.upwork.com/freelancers/~013d5163c5ade668ba?mp_source=share)  
 Contact: info.armanagonou@gmail.com
-Portfolio: http://armand-anagonou.me
+Portfolio: https://armand-anagonou.me
