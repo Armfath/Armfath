@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Armfath
 
-<!--
-**Armfath/Armfath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building clean, reliable products.
 
-Here are some ideas to get you started:
+**Current project:** Ghost2Lead  
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS  
+**Backend:** Python · FastAPI · PostgreSQL  
+**Analytics:** PostHog  
+**AI/Agents:** CrewAI  
+**Ops:** Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Upwork (Top Rated):**  
+https://www.upwork.com/freelancers/~013d5163c5ade668ba?mp_source=share
+
+**Contact:** info.armanagonou@gmail.com · http://armand-anagonou.me
